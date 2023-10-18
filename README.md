@@ -25,9 +25,9 @@
 <li>This highlights another significant business opportunity for olist to enhance seller partnerships in these locations, thereby driving increased sales</li>
 <li>In addition, we observed 4 states without any sellers, which were Roraima, Amapá, Tocantins, and Alagoas, in the North and Northeast regions</li>
 
-##### _Recommedations_
+#### **Recommedations**
 <li>It is recommended that olist expand its business coverage geographically in areas with high average sales and growth rates but low number of sellers, such as the North and Northeast regions, and the highlighted states Maranhão, Bahia, Pernambuco, Mato Grosso, and Sergipe</li>
-<li>olist should also explore the feasibility of partnering with sellers in the 4 states without seller</li>
+<li>olist should also explore the feasibility of partnering with sellers in the 4 states without seller (*Roraima*, Amapá, Tocantins, and Alagoas_)</li>
 <li>Providing attractive partnering packages and support resources to new sellers in the above highlighted locations can contribute to the diversification and expansion of our seller base.</li>
 <br>
 
