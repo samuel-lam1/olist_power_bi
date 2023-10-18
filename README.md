@@ -33,3 +33,15 @@
 
 ### Seller partnership
 ![Seller partnership](https://github.com/samuel-lam1/olist_power_bi/blob/ppt_slide/ppt_slide_6.jpg?raw=true)
+<li>Moving to the seller partnership, the partnership durations in the dataset are ranging from 0 to over 700 days</li>
+<li>Correlations are identified between the partnership duration and the total sales, as well as the amount of orders</li>
+<li>The longer the duration, the greater the sales and the order amounts</li>
+<li>It follows a logarithmic pattern, which suggests that longer durations lead to more significant growth</li>
+
+#### Recommedations
+<li>olist can focus on fostering and building long-term partnership with sellers</li>
+<li>For example, implement <em>performance-based incentives and rewards</em>, such as <em>tiered commission rates</em>, for top-performing sellers to motivate their continuous improvements</li>
+<li>Some other incentives would be <em>badges system</em> and <em>marketing exposure opportunities</em>. This can increase seller public recognition and visibility, and potentially attract more customers to their stores, which can be another powerful motivator</li>
+<li>Another suggestion could be to develop <em>loyalty schemes</em> or <em>exclusive benefits</em> for sellers with long-standing partnerships</li>
+<li>For example, provide <em>discounts</em> on using olist platform such as reduced listing fees, subscription fees, or any other charges associated with the platform</li>
+<li>olist can also offer <em>priority support service</em> for loyal sellers. This ensures that they receive swift assistance which can strengthen positive relationships</li>
